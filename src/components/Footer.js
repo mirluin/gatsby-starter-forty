@@ -11,7 +11,7 @@ const Footer = (props) => (
                 <li><a href="#" className="icon alt fa-linkedin"><span className="label">LinkedIn</span></a></li>
             </ul>
             <ul className="copyright">
-                <li>&copy; Marangoni S.p.A. </li><li>P.IVA IT00125560227</li><li><a href="https://www.marangoni.com/privacy-policy/">Privacy policy</a></li>
+                <li>&copy; Company </li><li>P.IVA IT00000000000</li><li><a href="#">Privacy policy</a></li>
             </ul>
         </div>
     </footer>
